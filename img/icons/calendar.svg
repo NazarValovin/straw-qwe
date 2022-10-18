@@ -1,0 +1,34 @@
+<svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.375 3.375H23.625" stroke="black"/>
+<path d="M1.6875 5.0625L1.6875 23.625" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.3125 5.0625V23.625" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.375 3.375C2.44302 3.375 1.6875 4.13052 1.6875 5.0625" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.625 3.375C24.557 3.375 25.3125 4.13052 25.3125 5.0625" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.625 25.3125H3.375" stroke="black"/>
+<path d="M23.625 25.3125C24.0726 25.3125 24.5018 25.1347 24.8182 24.8182C25.1347 24.5018 25.3125 24.0726 25.3125 23.625" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.375 25.3125C3.1534 25.3125 2.93396 25.2689 2.72922 25.184C2.52449 25.0992 2.33846 24.9749 2.18176 24.8182C2.02506 24.6615 1.90076 24.4755 1.81595 24.2708C1.73115 24.066 1.6875 23.8466 1.6875 23.625" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.5 5.0625V1.6875" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.875 5.0625V1.6875" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.25 5.0625V1.6875" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.125 5.0625V1.6875" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.75 5.0625V1.6875" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1.6875 10.125H25.3125" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="6.5" cy="14.5" r="0.5" fill="black"/>
+<circle cx="6.5" cy="17.5" r="0.5" fill="black"/>
+<circle cx="6.5" cy="20.5" r="0.5" fill="black"/>
+<circle cx="9.5" cy="14.5" r="0.5" fill="black"/>
+<circle cx="9.5" cy="17.5" r="0.5" fill="black"/>
+<circle cx="9.5" cy="20.5" r="0.5" fill="black"/>
+<circle cx="12.5" cy="14.5" r="0.5" fill="black"/>
+<circle cx="12.5" cy="17.5" r="0.5" fill="black"/>
+<circle cx="12.5" cy="20.5" r="0.5" fill="black"/>
+<circle cx="15.5" cy="14.5" r="0.5" fill="black"/>
+<circle cx="15.5" cy="17.5" r="0.5" fill="black"/>
+<circle cx="15.5" cy="20.5" r="0.5" fill="black"/>
+<circle cx="18.5" cy="14.5" r="0.5" fill="black"/>
+<circle cx="18.5" cy="17.5" r="0.5" fill="black"/>
+<circle cx="18.5" cy="20.5" r="0.5" fill="black"/>
+<circle cx="21.5" cy="14.5" r="0.5" fill="black"/>
+<circle cx="21.5" cy="17.5" r="0.5" fill="black"/>
+<circle cx="21.5" cy="20.5" r="0.5" fill="black"/>
+</svg>
